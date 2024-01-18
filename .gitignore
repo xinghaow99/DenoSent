@@ -1,0 +1,6 @@
+__pycache__
+results
+wandb
+mteb_results
+SentEval/data/downstream/*
+*.sh
