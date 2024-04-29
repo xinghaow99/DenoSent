@@ -101,4 +101,4 @@ python \
 
 ## Acknowledgements
 
-We use the [SentEval toolkit](https://github.com/facebookresearch/SentEval) and the [MTEB toolkit](https://github.com/embeddings-benchmark/mteb) for evaluations, and we adopt the modified version of SenteEal from the [SimCSE repository](https://github.com/princeton-nlp/SimCSE).
+We use the [SentEval toolkit](https://github.com/facebookresearch/SentEval) and the [MTEB toolkit](https://github.com/embeddings-benchmark/mteb) for evaluations, and we adopt the modified version of SentEval from the [SimCSE repository](https://github.com/princeton-nlp/SimCSE).
